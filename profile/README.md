@@ -1,13 +1,18 @@
-## Russian Tech 🇷🇺👨‍💻
+# Russian Tech 🇷🇺👨‍💻
 
-<!--
+<img width="100%" alt="Снимок экрана 2023-06-17 в 22 13 38" src="https://github.com/RussianTech-IT/.github/assets/107361187/bd9c0a61-f415-455a-8a0e-503687186769">
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Russian Tech is a self-paced learning project for novice programmers and people who plan to learn to code. We have in the development plans of the project a website where you can view resources for self-study, a mobile application for Android and iOS, where you can write and run code directly from your mobile device. This project supports Open Source.
 
+## We provide free access to:
+- Project source code💻
+- Books, lectures and other teaching materials📗
+- New technologies🛠
+
+## Social Media
+- **Telegram:** https://t.me/rutech_it
+- **VK:** https://vk.com/rustechit
+---
+Russian Tech - new features!🔥
