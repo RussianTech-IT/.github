@@ -11,6 +11,13 @@ Russian Tech is a self-paced learning project for novice programmers and people 
 - Books, lectures and other teaching materials📗
 - New technologies🛠
 
+## Our stack used:
+- Vue.js 3
+- Axios API
+- MySQL
+- MAUI .NET
+- Python
+
 ## Social Media
 - **Telegram:** https://t.me/rutech_it
 - **VK:** https://vk.com/rustechit
