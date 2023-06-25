@@ -15,7 +15,7 @@ Russian Tech is a self-paced learning project for novice programmers and people 
 - Vue.js 3
 - Axios API
 - MySQL
-- MAUI .NET
+- Flutter
 - Python
 
 ## Social Media
