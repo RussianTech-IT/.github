@@ -4,7 +4,7 @@
 
 ---
 
-Russian Tech is a self-paced learning project for novice programmers and people who plan to learn to code. We have in the development plans of the project a website where you can view resources for self-study, a mobile application for Android and iOS, where you can write and run code directly from your mobile device. This project supports Open Source.
+Russian Tech is a self-paced learning project for novice programmers and people who plan to learn to code. We have in the development plans of the project a website where you can view resources for self-study, a mobile application for Android and iOS, where you can write and run code directly from your mobile device.
 
 ## We provide free access to:
 - Project source code💻
